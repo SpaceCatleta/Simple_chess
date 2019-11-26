@@ -1,0 +1,6 @@
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Chess_Library\bin\Debug\Chess_Library.dll
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Chess_Library\bin\Debug\Chess_Library.pdb
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Chess_Library\obj\Debug\Chess_Library.csprojAssemblyReference.cache
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Chess_Library\obj\Debug\Chess_Library.csproj.CoreCompileInputs.cache
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Chess_Library\obj\Debug\Chess_Library.dll
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Chess_Library\obj\Debug\Chess_Library.pdb

@@ -1,0 +1,13 @@
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\bin\Debug\Шахматы.exe.config
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\bin\Debug\Шахматы.exe
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\bin\Debug\Шахматы.pdb
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.csprojAssemblyReference.cache
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.Form1.resources
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.Properties.Resources.resources
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.GenerateResource.cache
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.CoreCompileInputs.cache
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.exe
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.pdb
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\bin\Debug\Chess_Library.dll
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\bin\Debug\Chess_Library.pdb
+C:\Users\fedo9\Desktop\folder\program\Шахматы\Шахматы\obj\Debug\Шахматы.csproj.CopyComplete
